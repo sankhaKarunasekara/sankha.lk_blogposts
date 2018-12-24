@@ -6,7 +6,7 @@ import IconButton from "@material-ui/core/IconButton";
 
 import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
 
-import avatar from "../../images/jpg/avatar.jpg";
+import avatar from "../../images/jpg/2.jpg";
 import config from "../../../content/meta/config";
 
 const styles = theme => ({
@@ -68,6 +68,7 @@ const styles = theme => ({
   title: {
     willChange: "transform, left, top",
     fontSize: `${theme.info.fonts.boxTitleSize}em`,
+    fontWeight: 500,
     margin: 0,
     float: "left",
     transitionTimingFunction: "ease",
