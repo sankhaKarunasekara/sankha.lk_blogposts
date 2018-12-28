@@ -2,7 +2,7 @@
 title: Two things are infinite the universe and human stupidity
 subTitle: And I'm not sure about the universe.
 category: "sayings"
-cover: photo-1490474418585-ba9bad8fd0ea-cover.jpg
+cover: cover.jpg
 ---
 
 Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, [adipiscing](http://google.com) eu pulvinar vel, sodales vitae dui. :thumbsup: :smile: :sparkler:
@@ -12,18 +12,17 @@ a=3
 puts a
 ```
 
-Pellentesque `sed` sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+රූමස්සල කන්ද නමින් හැඳින්වෙන්නේ ගාල්ල නගරයට නුදුරින් ගාල්ල - මාතර මහාමාර්ගය පදනම් කරගෙන කිලෝමීටර් දෙකක් පමණ දුරින් පිහිටි කඳු පර්වත සහිත වනාන්තර භූමියකි. සුවිශාල තැනිතලා බිමකට නෑකම් කියන ගාලු දිස්ත්‍රික්කයේ ගාල්ල නගරයට ආසන්නව මෙවන් කඳු වැටියක් පිහිටා තිබීම ඇදහිය නොහැකි කරුණක් බවයි ඇතැමුන් පවසන්නේ. කොටින්ම කිවහොත් රූමස්සල කන්ද එම ස්ථානයට ආගන්තුක කන්දකි.
 
-Fusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.
+> “රූමස්සල” නමැති නාමය රූ-මස්-සල නමැති වචන තුනට කඩකොට විග්‍රහ කළ හැකි යයි ද අරුත් වශයෙන් එය “ලස්සන කන්ද” නමින් ව්‍යවහාර කළ හැකි යයි ද රූමස්සල “බොනවිස්ටා” යන නමින් ද හැඳින්වෙන අතර එහි අරුත නම් “ලස්සන භූමි භාගය” යන්න බව ද ඇතැමුන්ගේ මතයයි.
 
-> Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.
 
-Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.
+දිගටිව සහ සිහින්ව පිහිටි මෙම අසිරිමත් කුඩා කඳු වැටියේ පුරාම ඉතාම දුර්ලභ ගණයේ ඖෂධ වර්ග බොහොමයක්ම පවතින බව කියනු ලැබේ. මෙහි ඇති ඖෂධ වර්ග ගණන 150 ද ඉක්මවන බව විද්වත්හු පවසති. රූමස්සල කඳු වැටිය සම්බන්ධයෙන් ගෙතී ඇති ජනප්‍රවාද සංඛ්‍යාව ද සුළුපටු නොවේ. මෙම කඳු මුදුනේ පලතුරු ගස් ඇති අතර ඒවායේ ඉදුණු පලතුරු පවතී. විටෙක රූමස්සල කඳු වැටිය තරණය කරන්නෝ එහි අතරමං වෙති. එවිට එහි පවතින පලතුරු කෑවොත් ඔවුන්ට ඉදිරියට ගමන් කිරීමට ඇති මාර්ගය පෑදෙන බවත් යළිත් මංමුලා නොවන බවත් කියනු ලැබේ.
 
-### Cras semper consectetur elementum
+### ජනකතා
 
-Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+මෙම ජනකතාව නුවරඑළිය ප්‍රදේශයේ පවතින්නේ තරමක් වෙනස්වය. හග්ගල කඳු මුදුනේත් වලපනේ මහකුඩුගල කඳු මුදුනේත් පලතුරු උයන් පවතින අතර එහි යන කෙනෙකුට ඕනෑතරම් පලතුරු කෑ හැකිය. එහෙත් ආපසු යන විට ගෙන යා නොහැකිය. එසේ ගෙන යාමට උත්සාහ කරන අයට මඟ වරදී. තවදුරටත් එහි ඇති මංමුලාවැල් පෑගුනොත් ඔවුනට ද මඟ වරදී.
 
-![unsplash.com](./photo-1490474418585-ba9bad8fd0ea.jpg)
+රූමස්සල කඳු වැටිය මෙම ස්ථානයට ආගන්තුකව ලැබුණු එකක් බව මෙහි ඉහතින් ද දක්වා ඇත. එසේ කියා ඇඟ බේරා ගන්නට ද නොහැකිය. රාමායනය අනාවරණය කරන තොරතුරු ආශ්‍රයෙන් රූමස්සල කන්ද ආගන්තුක එකක් බව සනාථ කර ගත හැකි නම් එය අප ලද ජයග්‍රහණයක් බව කිව යුතුය.
 
-Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+![unsplash.com](./2.jpg)
