@@ -43,6 +43,11 @@ module.exports = {
     },
     facebook: {
       appId: process.env.FB_APP_ID ? process.env.FB_APP_ID : ""
+    },
+    google: {
+      siteVerification: process.env.GOOGLE_SITE_VERIFICATION_ID
+        ? process.env.GOOGLE_SITE_VERIFICATION_ID
+        : ""
     }
   },
   plugins: [
@@ -158,7 +163,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: process.env.GOOGLE_ANALYTICS_ID
+        trackingId: process.env.GOOGLE_ANALYTICS_ID,
+        head: true
       }
     },
     {
