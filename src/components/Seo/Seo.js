@@ -4,7 +4,7 @@ import Helmet from "react-helmet";
 import config from "../../../content/meta/config";
 
 const Seo = props => {
-  const { data, facebook, google } = props;
+  const { data, facebook } = props;
   const postTitle = ((data || {}).frontmatter || {}).title;
   const postDescription = ((data || {}).frontmatter || {}).description;
   const postCover = ((data || {}).frontmatter || {}).cover;
@@ -14,6 +14,7 @@ const Seo = props => {
   const description = postDescription ? postDescription : config.siteDescription;
   const image = postCover ? postCover.childImageSharp.resize.src : config.siteImage;
   const url = config.siteUrl + config.pathPrefix + postSlug;
+  const googleSiteVerificationId = config.googleSiteVerificationId;
 
   return (
     <Helmet
@@ -29,7 +30,7 @@ const Seo = props => {
       <meta property="og:url" content={url} />
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
-      <meta name="google-site-verification" content={google.siteVerification} />
+      <meta name="google-site-verification" content={googleSiteVerificationId} />
       <meta property="og:image" content={image} />
       <meta property="og:type" content="website" />
       <meta property="fb:app_id" content={facebook.appId} />
@@ -45,8 +46,7 @@ const Seo = props => {
 
 Seo.propTypes = {
   data: PropTypes.object,
-  facebook: PropTypes.object.isRequired,
-  google: PropTypes.object.isRequired
+  facebook: PropTypes.object.isRequired
 };
 
 export default Seo;

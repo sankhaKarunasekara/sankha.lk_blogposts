@@ -44,11 +44,9 @@ module.exports = {
     facebook: {
       appId: process.env.FB_APP_ID ? process.env.FB_APP_ID : ""
     },
-    google: {
-      siteVerification: process.env.GOOGLE_SITE_VERIFICATION_ID
-        ? process.env.GOOGLE_SITE_VERIFICATION_ID
-        : ""
-    }
+    googleSiteVerificationId: process.env.GOOGLE_SITE_VERIFICATION_ID
+      ? process.env.GOOGLE_SITE_VERIFICATION_ID
+      : ""
   },
   plugins: [
     `gatsby-plugin-react-next`,
