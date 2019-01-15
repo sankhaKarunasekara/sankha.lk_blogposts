@@ -54,7 +54,10 @@ const mapDispatchToProps = {
   setNavigatorShape
 };
 
-export default connect(mapStateToProps, mapDispatchToProps)(PostTemplate);
+export default connect(
+  mapStateToProps,
+  mapDispatchToProps
+)(PostTemplate);
 
 //eslint-disable-next-line no-undef
 export const postQuery = graphql`
@@ -72,7 +75,7 @@ export const postQuery = graphql`
         subTitle
         cover {
           childImageSharp {
-            resize(width: 300) {
+            resize(width: 700) {
               src
             }
           }

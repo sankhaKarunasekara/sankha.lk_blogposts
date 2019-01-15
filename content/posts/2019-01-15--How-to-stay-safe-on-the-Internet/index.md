@@ -2,7 +2,6 @@
 title: How to stay safe on the Internet
 subTitle: "There are only two types of people on the Internet: those whobeen hacked, and those that will be."
 cover: cyber_cover.jpg
-catogory: ["security"]
 date: 2019-01-15 16:42:27 +0530
 ---
 
