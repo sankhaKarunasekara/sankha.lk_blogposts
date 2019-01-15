@@ -5,10 +5,9 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: pages/1--about
+  path: pages/1--about/index.md
   label: About
   match: "**/*"
-  read_only: false
 - type: directory
   path: content/posts
   label: Posts
