@@ -4,6 +4,11 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: pages/1--about
+  label: About
+  match: "**/*"
+  read_only: false
 - type: directory
   path: content/posts
   label: Posts
