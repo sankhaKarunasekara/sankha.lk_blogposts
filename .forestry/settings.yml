@@ -12,6 +12,7 @@ sections:
   label: Posts
   create: all
   match: "**/*"
+  new_doc_ext: md, jpeg,png
 upload_dir: content/pages/2--starters
 public_path: "/uploads"
 front_matter_path: ''
