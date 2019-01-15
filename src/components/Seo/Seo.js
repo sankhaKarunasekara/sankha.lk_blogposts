@@ -24,22 +24,21 @@ const Seo = props => {
       }}
     >
       {/* General tags */}
-      <title>{title}</title>
-      <meta name="description" content={description} />
+      <title> {title} </title>
       {/* OpenGraph tags */}
+      <meta name="description" content={description} />
       <meta property="og:url" content={url} />
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
-      <meta name="google-site-verification" content={googleSiteVerificationId} />
       <meta property="og:image" content={image} />
       <meta property="og:type" content="website" />
-      <meta property="fb:app_id" content={facebook.appId} />
-      {/* Twitter Card tags */}
+      <meta property="fb:app_id" content={facebook.appId} /> {/* Twitter Card tags */}
       <meta name="twitter:card" content="summary" />
       <meta
         name="twitter:creator"
         content={config.authorTwitterAccount ? config.authorTwitterAccount : ""}
       />
+      <meta name="google-site-verification" content={googleSiteVerificationId} />
     </Helmet>
   );
 };
