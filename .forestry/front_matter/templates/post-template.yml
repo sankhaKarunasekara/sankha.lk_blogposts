@@ -23,3 +23,6 @@ fields:
   type: tag_list
   hidden: false
   default: ''
+pages:
+- content/posts/2019-01-15--should-I-choose-netlify-or-forestry.io/should-i-choose-netlify-or-forestry-io.md,
+  jpeg,png
