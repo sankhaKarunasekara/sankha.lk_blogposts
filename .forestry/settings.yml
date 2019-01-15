@@ -12,10 +12,10 @@ sections:
   label: Posts
   create: all
   match: "**/*"
-upload_dir: ":year:-:month:-:day:-:filename:"
-public_path: ":year:-:month:-:day:-:filename:"
+upload_dir: content/pages/2--starters
+public_path: "/uploads"
 front_matter_path: ''
-use_front_matter_path: true
+use_front_matter_path: false
 file_template: 'content/post/:year:-:month:-:day:-:filename:'
 build:
   preview_command: gatsby build
