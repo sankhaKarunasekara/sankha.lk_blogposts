@@ -1,11 +1,12 @@
 ---
 title: How to stay safe on the Internet
 subTitle: "There are only two types of people on the Internet: those whobeen hacked, and those that will be."
-cover: cyber_security.jpg
+cover: cyber_cover.jpg
+catogory: ["security"]
 date: 2019-01-15 16:42:27 +0530
 ---
 
-!["cyber security"](./cyber_security.jpg)
+![cyber security](./cyber_cover.jpg)
 
 Have you ever check emails in your Gmail Spam folder, It's fun, once in every 3 to 4 months I open my E-Mail Spam inbox and check what's new. When last time I did that these are some of the things I found.
 
