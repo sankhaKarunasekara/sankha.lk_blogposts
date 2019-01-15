@@ -7,17 +7,16 @@ sections:
 - type: document
   path: pages/1--about/index.md
   label: About
-  match: "**/*"
 - type: directory
   path: content/posts
   label: Posts
   create: all
   match: "**/*"
-upload_dir: uploads
-public_path: "/uploads"
+upload_dir: ":year:-:month:-:day:-:filename:"
+public_path: ":year:-:month:-:day:-:filename:"
 front_matter_path: ''
-use_front_matter_path: false
-file_template: ":year:-:month:-:day:-:filename:"
+use_front_matter_path: true
+file_template: 'content/post/:year:-:month:-:day:-:filename:'
 build:
   preview_command: gatsby build
   publish_command: gatsby build
