@@ -13,4 +13,9 @@ upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
-file_template: ":filename:"
+file_template: ":year:-:month:-:day:-:filename:"
+build:
+  preview_command: gatsby build
+  publish_command: gatsby build
+  preview_output_directory: public
+  output_directory: public
