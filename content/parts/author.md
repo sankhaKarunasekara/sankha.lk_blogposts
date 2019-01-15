@@ -2,4 +2,4 @@
 title: author
 ---
 
-**Mr. Sankha Lakshan Karunasekara** Full-Stack Developer, BSc. Engineer (SP Computer Engineering) from University of Peradeniya, Sri Lanka. [bibendum](/) Astronomer, Traveler. :hearts:
+**Mr. Gatsby** Proin ornare ligula eu tellus tempus elementum. Aenean [bibendum](/) iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. :hearts:
