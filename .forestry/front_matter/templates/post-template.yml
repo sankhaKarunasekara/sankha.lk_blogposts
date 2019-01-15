@@ -1,5 +1,25 @@
 ---
-label: Post Template
+label: Post
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: subTitle
+  label: Subtitle
+  type: text
+  hidden: false
+  default: ''
+- name: cover
+  label: Cover
+  type: file
+  hidden: false
+  default: ''
+- name: category
+  label: Category
+  type: tag_list
+  hidden: false
+  default: ''
