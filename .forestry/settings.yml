@@ -17,5 +17,10 @@ file_template: ":year:-:month:-:day:-:filename:"
 build:
   preview_command: gatsby build
   publish_command: gatsby build
+  publish_env:
+  - ALGOLIA_ADMIN_API_KEY=5e3c7a8fa25e9304910c28fe7dc542f4
+  - ALGOLIA_APP_ID=6NFIKR4Y31
+  - ALGOLIA_INDEX_NAME=content
+  - ALGOLIA_SEARCH_ONLY_API_KEY=3cc8ab799711f9b5d0c74415dcca5c57
   preview_output_directory: public
   output_directory: public
