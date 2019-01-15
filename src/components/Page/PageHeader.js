@@ -37,6 +37,10 @@ const styles = theme => ({
     [`@media (min-width: ${theme.mediaQueryTresholds.L}px)`]: {
       width: "190px"
     }
+  },
+  algolia: {
+    fontSize: "18px",
+    height: "40px"
   }
 });
 
@@ -45,7 +49,7 @@ const Header = props => {
 
   return (
     <header className={classes.header}>
-      <h1 className={classes.title}>{title}</h1>
+      <h4 className={classes.title}> {title} </h4>
       {algolia && (
         <a
           className={classes.mark}
@@ -53,7 +57,9 @@ const Header = props => {
           rel="noopener noreferrer"
           target="_blank"
         >
-          <AlgoliaIcon />
+          <div className={classes.algolia}>
+            <AlgoliaIcon />
+          </div>
         </a>
       )}
     </header>
