@@ -4,10 +4,25 @@ backend:
 
 media_folder: static/assets
 
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: sankha-lk
+    api_key: 877994999693537
+
 collections:
   - name: blog
     label: Blog
     folder: content/posts/
+    create: true
+    fields:
+      - { name: path, label: Path }
+      - { name: date, label: Date, widget: date }
+      - { name: title, label: Title }
+      - { name: body, label: Body, widget: markdown }
+  - name: about
+    label: About
+    folder: pages/1--about/
     create: true
     fields:
       - { name: path, label: Path }
