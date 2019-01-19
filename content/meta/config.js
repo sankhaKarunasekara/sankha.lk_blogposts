@@ -1,8 +1,8 @@
 const colors = require("../../src/styles/colors");
 
 module.exports = {
-  siteTitle: "My thoughts", // <title>
-  shortSiteTitle: "Life", // <title> ending for posts and pages
+  siteTitle: "Sankha Lakshan Karunasekara", // <title>
+  shortSiteTitle: "sankha.lk", // <title> ending for posts and pages
   siteDescription: "this is the way I choose to spend my life, and I love it.",
   siteUrl: "https://sankha.lk",
   pathPrefix: "",
@@ -15,7 +15,7 @@ module.exports = {
   infoTitle: "Sankha Karunasekara",
   infoTitleNote: "personal blog",
   // manifest.json
-  manifestName: "Web Developer, Engineer, Astronomer, Photographer, Travelar",
+  manifestName: "Web Developer, Engineer, Astronomer, Photographer, Traveler",
   manifestShortName: "PersonalBlog", // max 12 characters
   manifestStartUrl: "/",
   manifestBackgroundColor: colors.background,
