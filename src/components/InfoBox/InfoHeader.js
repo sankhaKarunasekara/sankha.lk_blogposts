@@ -74,8 +74,10 @@ const styles = theme => ({
     transitionTimingFunction: "ease",
     "& small": {
       display: "block",
-      fontSize: ".6em",
-      marginTop: ".3em"
+      fontSize: ".60em",
+      fontWeight: "500",
+      marginTop: ".3em",
+      lineHeight: "1.3"
     },
     [`@media (min-width: ${theme.mediaQueryTresholds.M}px)`]: {
       fontSize: `${theme.info.fonts.boxTitleSizeM}em`

@@ -39,7 +39,8 @@ const styles = theme => ({
     color: theme.bars.colors.text,
     "& small": {
       display: "block",
-      fontSize: ".65em",
+      fontSize: ".75em",
+      lineHeight: "1.6",
       margin: "2px 0 0 0"
     }
   },

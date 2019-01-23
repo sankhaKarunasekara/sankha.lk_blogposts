@@ -25,7 +25,7 @@ const styles = theme => ({
       top: 0,
       width: `${theme.info.sizes.width}px`,
       height: "100%",
-      padding: "20px 40px",
+      padding: "20px 20px",
       "&::after": {
         content: `""`,
         position: "absolute",
@@ -71,7 +71,7 @@ class InfoBox extends React.Component {
 
     return (
       <aside
-        className={`${classes.infoBox} ${navigatorPosition ? navigatorPosition : ""} 
+        className={`${classes.infoBox} ${navigatorPosition ? navigatorPosition : ""}
         ${navigatorShape ? navigatorShape : ""}`}
       >
         {info && (
@@ -82,10 +82,10 @@ class InfoBox extends React.Component {
           />
         )}
         <div className={classes.wrapper}>
-          {info && <InfoText info={info} />}
           <SocialIcons />
+          {info && <InfoText info={info} />}
           {pages && <InfoMenu pages={pages} linkOnClick={this.menulinkOnClick} />}
-          <StackIcons />
+          {/*<StackIcons />*/}
         </div>
       </aside>
     );
@@ -115,4 +115,7 @@ const mapDispatchToProps = {
   setNavigatorShape
 };
 
-export default connect(mapStateToProps, mapDispatchToProps)(injectSheet(styles)(InfoBox));
+export default connect(
+  mapStateToProps,
+  mapDispatchToProps
+)(injectSheet(styles)(InfoBox));

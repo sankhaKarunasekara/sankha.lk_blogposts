@@ -5,11 +5,12 @@ import injectSheet from "react-jss";
 const styles = theme => ({
   text: {
     display: "block",
-    fontWeight: 300,
+    fontWeight: 400,
     lineHeight: 1.5,
-    fontSize: ".95em",
-    textAlign: "left",
-    marginBottom: ".8em",
+    fontSize: ".75em",
+    textAlign: "center",
+    marginTop: "0.8em",
+    marginBottom: "1.2em",
     "& p:first-child": {
       marginTop: 0
     },

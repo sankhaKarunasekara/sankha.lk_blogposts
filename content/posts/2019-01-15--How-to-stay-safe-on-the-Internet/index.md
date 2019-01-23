@@ -8,11 +8,7 @@ date: 2019-01-15 16:42:27 +0530
 
 ![cyber security](./cyber_cover.jpg)
 
-
-
 Have you ever **check** emails in your **Gmail Spam folder**, It's fun, once in every 3 to 4 months I open my E-Mail Spam inbox and check what's new. When last time I did that these are some of the things I found..!
-
-
 
 - **3 universities** are giving me **scholarships** for **Master’s/Doctoral degree programs** in random subjects.
 - **10 bank**s are giving me **easy loans**.
@@ -22,13 +18,9 @@ Have you ever **check** emails in your **Gmail Spam folder**, It's fun, once in 
 - **Dr Rajan** has claimed that he will **cure** my **hair fal**l.
 - And Approx **40-50 emails** from **Priyanka**, **Rakith**, and **Neha** who are feeling **lonely** and **want to meet me.**
 
-
-
 So, the **Internet** is a **wired** **place**, like a society there are many kinds of actors who wanders around. In a normal society, there are guidelines, laws, traditions to restrict and control their behavior. But in the cyberspace, there are **no restrictions** or **traditions**. You can do whatever you want however you want it.
 
 But in the cyber realm, there is an **advantage**. Unlike in the real world, you are **not physically there**. Since **no one can force you** to do anything that you don't want to do. So what they do is **trick** you to do **what they want**, mostly using **social engineering** techniques. if you act **vigilant** and **careful** in the cyberspace, **no one can hurt you**.
-
-
 
 > "There are only two types of people on the Internet: those who been hacked, and those that will be."
 
