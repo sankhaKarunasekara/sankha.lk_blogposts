@@ -254,12 +254,6 @@ module.exports = {
         include: /svg-icons/
       }
     },
-    {
-      resolve: `gatsby-plugin-compile-es6-packages`,
-      options: {
-        modules: [`@weknow/gatsby-remark-twitter`]
-      }
-    },
     `gatsby-plugin-netlify-cms`
   ]
 };
