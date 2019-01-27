@@ -51,7 +51,7 @@ const styles = theme => ({
     "& li": {
       margin: "0 0 .5em 0"
     },
-    "& blockquote": {
+    "& blockquote:not(.twitter-tweet)": {
       border: `5px solid ${theme.main.colors.blockquoteFrame}`,
       fontStyle: "italic",
       margin: "2.5em 0",

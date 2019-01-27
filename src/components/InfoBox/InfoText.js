@@ -7,7 +7,7 @@ const styles = theme => ({
     display: "block",
     fontWeight: 400,
     lineHeight: 1.5,
-    fontSize: ".65em",
+    fontSize: ".80em",
     textAlign: "center",
     marginTop: "0.8em",
     marginBottom: "1.2em",

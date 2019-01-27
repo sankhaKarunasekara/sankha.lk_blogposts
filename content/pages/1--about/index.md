@@ -8,6 +8,8 @@ The starter is a ready to use, easy to customize 'like theme' starter. It has ev
 
 ### Standard features:
 
+https://twitter.com/RoshanCricket/status/1089033863190532096
+
 * Easy editable content in **Markdown** files (posts, pages and parts)
 * **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
 * **Social** sharing (Twitter, Facebook, Google, LinkedIn)
