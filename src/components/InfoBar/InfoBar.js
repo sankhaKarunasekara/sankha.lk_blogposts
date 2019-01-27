@@ -36,11 +36,13 @@ const styles = theme => ({
   title: {
     float: "left",
     margin: "10px 0 0 15px",
+    fontWeight:"500",
     color: theme.bars.colors.text,
     "& small": {
       display: "block",
-      fontSize: ".75em",
+      fontSize: ".65em",
       lineHeight: "1.6",
+      fontWeight:"500",
       margin: "2px 0 0 0"
     }
   },

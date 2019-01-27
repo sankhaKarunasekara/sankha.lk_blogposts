@@ -36,8 +36,6 @@ But in the cyber realm, there is an **advantage**. Unlike in the real world, you
 
      Now that you’ve put smart tech measures into place, make sure that you **don’t invite danger with careless clicking.** Many of today’s online threats are based on **phishing** or **social engineering**. This is when you are tricked into revealing personal or sensitive information for fraudulent purposes. Spam emails, phony “free” offers, click bait, online quizzes and more all use these tactics to entice you to click on **dangerous links** or give up your personal information. Rule of Thumb on Internet: No one give you free staff. Always be **wary of offers** that **sounds too good to be true**, or ask for too much information.
 
-
-
 > Rule of Thumb on Internet: No one give you free staff.
 >
 
