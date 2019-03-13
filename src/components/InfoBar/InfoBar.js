@@ -9,7 +9,7 @@ import { setNavigatorPosition } from "../../state/store";
 import { featureNavigator, moveNavigatorAside } from "./../../utils/shared";
 
 import config from "../../../content/meta/config";
-import avatar from "../../images/jpg/2.jpg";
+import avatar from "../../images/jpg/great_me_bw_squre.jpg";
 import TopMenu from "./TopMenu";
 
 const styles = theme => ({

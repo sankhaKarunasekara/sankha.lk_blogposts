@@ -6,7 +6,7 @@ import IconButton from "@material-ui/core/IconButton";
 
 import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
 
-import avatar from "../../images/jpg/2.jpg";
+import avatar from "../../images/jpg/great_me_bw_squre.jpg";
 import config from "../../../content/meta/config";
 
 const styles = theme => ({

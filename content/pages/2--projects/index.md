@@ -1,20 +1,22 @@
 ---
-title: Other GatsbyJs starters
+title: My Projects
 menuTitle: My Projects
 ---
 
-[Personal**Blog**](https://github.com/greglobinski/gatsby-starter-personal-blog) is not my first [GatsbyJS](https://www.gatsbyjs.org/) starter.
+I have work on few projects over last two years. I did some of them for employers I 
+worked others as a freelanser. here are some of them,
 
-![SimpleLanding](./gatsby-starter-simple-landing.png)
+### www.astronomers.lk
 
-### SimpleLanding
+[www.astronomers.lk](https://www.astronomers.lk/) is a official website of Astronomical Research Institute of Sri Lanka,
+which functions under celestia Group.
 
-As the name says, it is a landing page starter.
-[Demo](https://gatsby-starter-simple-landing.greglobinski.com/) | [Github repo](https://github.com/greglobinski/gatsby-starter-simple-landing)
+![astronomers.lk](astronomerslk.png)
 
-![StyledBlog](./gatsby-styled-blog-starter.jpg)
+### www.traverlity.lk
 
-### StyledBlog
+[www.travelity.lk](https://www.travelity.lk/) is a blog site / web
+run by Lahiru Sandaruwan which talks about places in sri lanka you can visit as
+a travler.
 
-That was my first Gatsby starter. It is a forefather of the starter you are looking at now.
-[Github repo](https://github.com/greglobinski/gatsby-styled-blog-starter)
+![astronomers.lk](astronomerslk.png)

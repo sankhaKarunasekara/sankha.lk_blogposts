@@ -4,7 +4,7 @@ module.exports = {
   siteTitle: "Sankha Lakshan Karunasekara", // <title>
   shortSiteTitle: "sankha.lk", // <title> ending for posts and pages
   siteDescription:
-    "this is the way I choose to spend my life with, and I am loving every moment of It.",
+    "Smart Things I Learned Doing Stupid Stuff",
   siteUrl: "https://sankha.lk",
   pathPrefix: "",
   siteImage: "preview.jpg",

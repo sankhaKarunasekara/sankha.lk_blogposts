@@ -85,7 +85,7 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
-          // `@weknow/gatsby-remark-twitter`,
+          //`@weknow/gatsby-remark-twitter`,
           `gatsby-plugin-sharp`,
           {
             resolve: `gatsby-remark-images`,
