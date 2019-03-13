@@ -1,15 +1,4 @@
-# PersonalBlog
-
-A [GatsbyJS](https://www.gatsbyjs.org/) personal blog starter. <br /><br />
-
-[![GitHub license][mit-badge]][mit]
-[![GitHub tag][tag-badge]][tag]
-[![GitHub stars][stars-badge]][stars]
-![contributors][contributors-badge]
-[![PRs Welcome][prs-badge]][prs]
-[![Code of Conduct][coc-badge]][coc]
-[![code style prettier][prettier-badge]][prettier]
-[![Tweet][twitter-badge]][twitter]
+# Sankha Lakshan Karunasekara's Blog
 
   <br />
 
@@ -24,29 +13,6 @@ See the starter in action » [demo website](https://gatsby-starter-personal-blog
 A ready to use, easy to customize [GatsbyJS](https://github.com/gatsbyjs/gatsby) personal blog starter with 'like app' layout transitions.
 
 ## Features:
-
-- Customizable
-- Easy editable content in Markdown files (posts, pages and parts)
-- Easily restyled through theme object
-- Styling with JSS
-- Comments (Facebook)
-- Post categories
-- Post list filtering
-- Full text searching (Algolia)
-- Contact form (Netlify form handling)
-- Material UI (@next)
-- RSS feed
-- Full screen mode
-- User adjustable articles’ body copy font size
-- Social sharing (Twitter, Facebook, Google, LinkedIn)
-- PWA (manifest.json, offline support, favicons)
-- Google Analytics
-- Favicons generator (node script)
-- Components lazy loading with AsyncComponent (social sharing, info box)
-- ESLint (google config)
-- Prettier code styling
-- Custom webpack CommonsChunkPlugin settings
-- Webpack BundleAnalyzerPlugin
 
 ## Prerequisites
 
