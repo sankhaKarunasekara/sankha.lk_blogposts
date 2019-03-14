@@ -14,7 +14,6 @@ As the name says, it is a landing page starter.
 
 ![StyledBlog](./gatsby-styled-blog-starter.jpg)
 
-### StyledBlog
+### Services I love
 
-That was my first Gatsby starter. It is a forefather of the starter you are looking at now.
-[Github repo](https://github.com/greglobinski/gatsby-styled-blog-starter)
+wonderful free site to get images. [pixabay](https://pixabay.com/)

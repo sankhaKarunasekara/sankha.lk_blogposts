@@ -19,4 +19,4 @@ which functions under celestia Group.
 run by Lahiru Sandaruwan which talks about places in sri lanka you can visit as
 a travler.
 
-![astronomers.lk](astronomerslk.png)
+![travelity.lk](travelitylk.png)
