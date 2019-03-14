@@ -1,39 +1,82 @@
 ---
-title: About
+title: About me
 ---
 
-This is a demo site of the [PersonalBlog](https://github.com/greglobinski/gatsby-starter-personal-blog) GatsbyJS starter.
+I am a full stack developer more focused on front end development. I am excellent **angularjs** developer who has more than 2 year experience with it. Now I am changing my focus in to learning react and working with GATSBY static site generator to build awesome web sites. As side projects I love to work on AI, and Data mining projects.
 
 <!-- ![Sankha Karunasekara](great_me_bw_squre.jpg=250x "sankha.lk") -->
+<!-- <img align="left" width="100" height="100" src="./great_me_bw_squre.jpg">
+ -->
+<!-- <img src="great_me_bw_squre.jpg" alt="me"  style="float:left;"/> -->
 
-<img src="great_me_bw_squre.jpg" alt="me"  style="width:100px;height:100px;"/>
+### Experiance
 
-### Standard features:
+* Currently I work as a full Stack Developer ( more focued on front end) at [buzzflow PVT LTD](www.buzzflow.io).
 
-* Easy editable content in **Markdown** files (posts, pages and parts)
-* **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
-* **Social** sharing (Twitter, Facebook, Google, LinkedIn)
-* **Comments** (Facebook)
-* **Images** lazy loading and `webp` support (gatsby-image)
-* Post **categories** (post list filtering)
-* Full text **searching** (Algolia)
-* **Contact** form (Netlify form handling)
-* **RSS** feed
-* **PWA** (manifest.json, offline support, favicons)
-* Google **Analytics**
-* **Favicons** generator (node script)
-* **Material UI** (@next)
+* I started my carrier as a Software Engineering Intern at **Totalamber Asia Pacific PVT LTD (Software Engineering Intern)** attached to thier R&D team.
 
-### Advanced features:
+### Education
 
-* Easy customizable base **styles** via `theme` object (fonts, colors, sizes)
-* **Components** lazy loading (social sharing, comments)
-* **ESLint** (google config)
-* **Prettier** code styling
-* Custom webpack `CommonsChunkPlugin` settings
-* Webpack `BundleAnalyzerPlugin`
-* Contact **form validation** (react-material-ui-form-validator)
+* **BSc Engineering (Hons)**, Specialized in Computer Engineering (Faculty of Engineering University of Peradeniya)
 
-## Instructions
+* **Ananda College - Colombo 10** passed GCE A/L with Z-score of  **Z score - 2.1217**.
 
-For detailed instructions go to [Front-end web development with Greg](https://dev.greglobinski.com/gatsby-starter-personal-blog/).
+### Techonologies I worked With Since
+
+I worked with front-end and backend techonologies over the years, here is some of them,
+
+#### Programming Languages
+
+* Javascript
+* Java
+* C
+* Ocaml
+* Python
+* MATLAB
+* Arudio
+
+I am proficient in Javascript and Java.
+
+#### Java Frameworks
+
+* Hibanate
+* Maven
+* JUnit
+
+#### Javascript Frameworks
+
+* angularjs
+* angular
+* react
+
+#### Javascript libraries
+
+* orgChart
+* dragula
+* bootstrap
+* angular material
+
+#### Databases
+
+* MYSQL
+* MSSQL
+
+#### Version Control
+
+* git/github
+* SVN
+
+#### Data Mining Tools
+
+* Weka
+* Orange
+
+### Mobile Technologies
+
+* Andriod
+* Ionic 4
+
+### Cloud Technologies
+
+* Google App Engine
+* Cloudanary

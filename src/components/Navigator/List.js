@@ -6,7 +6,9 @@ import { forceCheck } from "react-lazyload";
 import ListHeader from "./ListHeader";
 import SpringScrollbars from "../SpringScrollbars";
 import ListItem from "./ListItem";
+import SpeakerCard from "./SpeakerCard";
 
+import textImage from "../../images/jpg/great_me_bw_squre.jpg"
 const styles = theme => ({
   posts: {
     position: "absolute",
@@ -60,6 +62,14 @@ class List extends React.Component {
       removeFilter
     } = this.props;
 
+    const  speaker = {
+      name: "Eranga Jayashantha",
+      title: "President of ARIS, B.Sc (Hons.) special degree in Microbiology",
+      description:
+        "Graduated from 34th ISYA (IAU) in Modern Astronomy & Astrophysics at NARIT - Thailand, Honorable mention Diploma in Astronomy and Astrophysics (IOAA-China), Former NPoC for Sri Lanka at Space Generation Advisory Council (UN) Former trainer and lecturer for Sri Lanka Astronomy and Astrophysics Olympiad at IPSL.",
+      image: textImage
+    };
+
     return (
       <div className={classes.posts}>
         <SpringScrollbars forceCheckOnScroll={true} isNavigator={true}>
@@ -70,9 +80,11 @@ class List extends React.Component {
               navigatorShape={navigatorShape}
               removeFilter={removeFilter}
             />
-            <ul className={classes.list}>
+
+             <ul className={classes.list}>
               {posts &&
                 posts.map((post, i) => (
+                  // <SpeakerCard  {...speaker} key={i} />
                   <ListItem
                     key={i}
                     post={post}
