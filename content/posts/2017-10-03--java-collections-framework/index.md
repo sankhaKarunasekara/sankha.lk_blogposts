@@ -2,7 +2,8 @@
 title: Java Collections Framework vs Java Map Interface
 subTitle: Becuase I always thought Map is a Part of Collection
 category: "Java"
-cover: collections_cover.jpg
+cover: collections_front.png
+date: 2019-01-30 16:42:27 +0530
 ---
 
 # Java Collections Framework vs Java Map Interface

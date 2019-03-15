@@ -3,6 +3,7 @@ title: Java String Literals vs String Objects
 subTitle: they are not the same
 category: "java"
 cover: ./heap.png
+date: 2019-01-19 16:42:27 +0530
 ---
 
 Strings are one of the most used concepts in any programming language. When it comes to **String manipulation** Java is one of the best languages going around. The **Java String Class** has many in-built methods to do so.
