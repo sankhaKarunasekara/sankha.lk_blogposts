@@ -2,6 +2,8 @@ import React from "react";
 import PropTypes from "prop-types";
 import injectSheet from "react-jss";
 import FacebookProvider, { Comments } from "react-facebook";
+import { DiscussionEmbed } from "disqus-react";
+
 require("core-js/fn/array/find");
 
 import config from "../../../content/meta/config";
@@ -14,11 +16,19 @@ const styles = theme => ({
   }
 });
 
+const disqusShortname = "sankhalk";
+
 const PostComments = props => {
-  const { classes, slug, facebook } = props;
+  const { classes, post, slug, facebook } = props;
+
+const disqusConfig = {
+  identifier: slug,
+  title: post.frontmatter.title,
+};
 
   return (
     <div id="post-comments" className={classes.postComments}>
+    {/*
       <FacebookProvider appId={facebook}>
         <Comments
           href={`${config.siteUrl}${slug}`}
@@ -26,7 +36,10 @@ const PostComments = props => {
           colorScheme={props.theme.main.colors.fbCommentsColorscheme}
         />
       </FacebookProvider>
+      */}
+      <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
     </div>
+
   );
 };
 
