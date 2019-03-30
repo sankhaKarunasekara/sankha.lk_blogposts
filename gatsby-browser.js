@@ -2,8 +2,12 @@ import React from "react";
 import { Router } from "react-router-dom";
 import { Provider } from "react-redux";
 import PropTypes from "prop-types";
-
 import createStore from "./src/state/store";
+import "./src/styles/toolbar/_toolbox-popover.css";
+import "./src/styles/toolbar/_c-toolbox-list.css";
+import "./src/styles/toolbar/_c-content-box.css";
+import "./src/styles/toolbar/_modifiers.css";
+import "./src/styles/toolbar/_avatar.css";
 
 // remove the JSS style tag generated on the server to avoid conflicts with the one added on the client
 // exports.onInitialClientRender = function() {

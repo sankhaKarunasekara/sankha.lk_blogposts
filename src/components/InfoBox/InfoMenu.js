@@ -2,6 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import injectSheet from "react-jss";
 import Link from "gatsby-link";
+// import { navigate } from "gatsby-navigate";
 
 const styles = theme => ({
   infoMenu: {
@@ -23,11 +24,27 @@ const styles = theme => ({
   }
 });
 
+// const navitageToHome = () => {
+//   navigate(
+//     "/",
+//     {
+//       state: { formValues },
+//     }
+//   )
+// }
+
 const InfoMenu = props => {
   const { classes, pages, linkOnClick } = props;
 
   return (
     <nav className={classes.infoMenu}>
+      <Link to="/"
+        state={{ homeScreen: true }}
+        onClick={linkOnClick}
+        className={classes.link}
+        data-shape="none">
+        Home
+      </Link>
       {pages.map((page, i) => {
         const { fields, frontmatter } = page.node;
         return (
@@ -44,6 +61,9 @@ const InfoMenu = props => {
       })}
       <Link to="/contact/" onClick={linkOnClick} className={classes.link} data-shape="closed">
         Contact
+      </Link>
+      <Link to="/toolbox/" onClick={linkOnClick} className={classes.link} data-shape="closed">
+        Tool Box
       </Link>
     </nav>
   );

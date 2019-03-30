@@ -81,10 +81,9 @@ class List extends React.Component {
               removeFilter={removeFilter}
             />
 
-             <ul className={classes.list}>
+            <ul className={classes.list}>
               {posts &&
                 posts.map((post, i) => (
-                  // <SpeakerCard  {...speaker} key={i} />
                   <ListItem
                     key={i}
                     post={post}
@@ -93,6 +92,22 @@ class List extends React.Component {
                   />
                 ))}
             </ul>
+
+            {/*<div style={{ display: "grid",
+            gridTemplateColumns: "1fr 1fr 1fr",
+            }}>
+              {posts &&
+                posts.map((post, i) => (
+                  //  <SpeakerCard name="Name" post={post} title="speaker title" description="description" />
+                  <ListItem
+                    key={i}
+                    post={post}
+                    linkOnClick={linkOnClick}
+                    categoryFilter={categoryFilter}
+                  />
+                ))}
+            </div>
+                */}
           </div>
         </SpringScrollbars>
       </div>

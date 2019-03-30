@@ -15,15 +15,29 @@ I am a full stack developer more focused on front end development. I am excellen
 
 * I started my carrier as a Software Engineering Intern at **Totalamber Asia Pacific PVT LTD (Software Engineering Intern)** attached to thier R&D team.
 
+
 ### Education
 
-* **BSc Engineering (Hons)**, Specialized in Computer Engineering (Faculty of Engineering University of Peradeniya)
+  * **BSc Engineering (Hons)**, Specialized in Computer Engineering (Faculty of Engineering University of Peradeniya)
 
-* **Ananda College - Colombo 10** passed GCE A/L with Z-score of  **Z score - 2.1217**.
+  * **Ananda College - Colombo 10** passed GCE A/L with Z-score of  **Z score - 2.1217**.
+
 
 ### Techonologies I worked With Since
 
-I worked with front-end and backend techonologies over the years, here is some of them,
+  I worked with front-end and backend techonologies over the years, here is some of them,
+
+
+### Publications
+
+* **Cricket Sabermetrics: A Data Mining Analysis of Cricket**
+  *Engineering Students Conference at Peradeniya (ESCaPe)*
+
+  The game of cricket has a wide wealth of complex statistical data associated with the game. Analysts and fans throughout history have crunched the numbers, trying to make meaning out of this vast pool of data. The aim of this project is to attempt the same using data mining techniques to hopefully unearth key underlying data patterns that can be used to accurately model in-game performances.
+
+  [see publication](http://www.ce.pdn.ac.lk/ESCaPe/2016/)
+
+---
 
 #### Programming Languages
 

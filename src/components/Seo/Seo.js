@@ -10,8 +10,6 @@ const Seo = props => {
   const postCover = ((data || {}).frontmatter || {}).cover;
   const postSlug = ((data || {}).fields || {}).slug;
 
-  console.log({ postTitle }, { postDescription }, { postCover }, { postSlug });
-
   const title = postTitle ? `${postTitle} - ${config.shortSiteTitle}` : config.siteTitle;
   const description = postDescription ? postDescription : config.siteDescription;
   const image = postCover ? postCover.childImageSharp.resize.src : config.siteImage;
@@ -41,6 +39,7 @@ const Seo = props => {
         content={config.authorTwitterAccount ? config.authorTwitterAccount : ""}
       />
       <meta name="google-site-verification" content={googleSiteVerificationId} />
+      <meta name="theme-color" content="#FFFA"></meta>
     </Helmet>
   );
 };

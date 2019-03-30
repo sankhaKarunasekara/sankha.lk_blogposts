@@ -37,6 +37,14 @@ class Layout extends React.Component {
   timeouts = {};
   categories = [];
 
+  state = {
+    homeScreen: false,
+  };
+
+  handleClick = event => {
+    this.setState({ ["homeScreen"]: false });
+  };
+
   componentDidMount() {
     this.props.setIsWideScreen(isWideScreen());
     if (typeof window !== "undefined") {
@@ -82,6 +90,13 @@ class Layout extends React.Component {
 
     // TODO: dynamic management of tabindexes for keybord navigation
     return (
+
+      this.state.homeScreen ?
+      <LayoutWrapper>
+        <h1>sampath</h1>
+        <button
+        onClick={this.handleClick}>button</button>
+      </LayoutWrapper> :
       <LayoutWrapper>
         {children()}
         <Navigator posts={data.posts.edges} />

@@ -50,6 +50,7 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-react-next`,
+    `gatsby-plugin-sass`,
     {
       resolve: `gatsby-plugin-algolia`,
       options: {
@@ -254,6 +255,6 @@ module.exports = {
         include: /svg-icons/
       }
     },
-    `gatsby-plugin-netlify-cms`
+    `gatsby-plugin-netlify-cms`,
   ]
 };
