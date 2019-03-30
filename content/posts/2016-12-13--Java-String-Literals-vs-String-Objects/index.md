@@ -1,7 +1,7 @@
 ---
 title: Java String Literals vs String Objects
 subTitle: they are not the same
-category: "java"
+category: "Java"
 cover: ./heap.png
 date: 2019-01-19 16:42:27 +0530
 ---
