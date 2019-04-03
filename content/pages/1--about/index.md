@@ -2,7 +2,7 @@
 title: About me
 ---
 
-I am a full stack developer more focused on front end development. I am excellent **angularjs** developer who has more than 2 year experience with it. Now I am changing my focus in to learning react and working with GATSBY static site generator to build awesome web sites. As side projects I love to work on AI, and Data mining projects.
+I am a full stack developer who is more focused on front end development. I am excellent **Java** **angular** developer who has more than 3 years experience with it. Now I am widening my focus in to learning **React** and working with **GATSBY** static site generator to build awesome web sites. As side projects I love to work with AI, and Data mining projects.
 
 <!-- ![Sankha Karunasekara](great_me_bw_squre.jpg=250x "sankha.lk") -->
 <!-- <img align="left" width="100" height="100" src="./great_me_bw_squre.jpg">
@@ -11,22 +11,15 @@ I am a full stack developer more focused on front end development. I am excellen
 
 ### Experiance
 
-* Currently I work as a full Stack Developer ( more focued on front end) at [buzzflow PVT LTD](www.buzzflow.io).
+* Currently I work as a Full Stack Developer ( more focued on front end) at [buzzflow PVT LTD](www.buzzflow.io).
 
 * I started my carrier as a Software Engineering Intern at **Totalamber Asia Pacific PVT LTD (Software Engineering Intern)** attached to thier R&D team.
-
 
 ### Education
 
   * **BSc Engineering (Hons)**, Specialized in Computer Engineering (Faculty of Engineering University of Peradeniya)
 
   * **Ananda College - Colombo 10** passed GCE A/L with Z-score of  **Z score - 2.1217**.
-
-
-### Techonologies I worked With Since
-
-  I worked with front-end and backend techonologies over the years, here is some of them,
-
 
 ### Publications
 
@@ -38,6 +31,11 @@ I am a full stack developer more focused on front end development. I am excellen
   [see publication](http://www.ce.pdn.ac.lk/ESCaPe/2016/)
 
 ---
+
+### Technologies I love to worked with
+
+  I worked with several front-end and back-end technologies over the years, I am predominantly **Java** + **Angular** guy who know little bit of **React**. Want to know more, take a look at my
+  [toolbox](/toolbox/)
 
 #### Programming Languages
 

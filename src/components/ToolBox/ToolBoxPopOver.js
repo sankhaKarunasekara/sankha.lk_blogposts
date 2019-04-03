@@ -1,6 +1,6 @@
-import React from 'react';
-import { FaClose } from 'react-icons/lib/fa/';
-import Avatar from './Avatar';
+import React from "react";
+import { FaClose } from "react-icons/lib/fa/";
+import Avatar from "./Avatar";
 
 const ToolBoxPopOver = ({
   top,
@@ -10,8 +10,8 @@ const ToolBoxPopOver = ({
   modifierClasses,
   description,
   comment,
-  onClick }) =>
-{
+  onClick
+}) => {
   return (
     <div
       className={`c-toolbox-popover ${modifierClasses}`}
@@ -22,32 +22,28 @@ const ToolBoxPopOver = ({
         right: right
       }}
     >
-      <button
-        className="c-toolbox-popover__close"
-        onClick={onClick}
-      >
+      <button className="c-toolbox-popover__close" onClick={onClick}>
         <FaClose />
       </button>
       <div className="c-toolbox-popover__text">
-        <p className="c-toolbox-popover__description"
-          dangerouslySetInnerHTML={{__html: description}}
+        <p
+          className="c-toolbox-popover__description"
+          dangerouslySetInnerHTML={{ __html: description }}
         />
-        {comment &&
+        {comment && (
           <div className="c-toolbox-popover__footer">
             <div className="c-toolbox-popover__avatar">
-              <Avatar
-                modifierClasses="c-avatar--as-author"
-              />
+              <Avatar modifierClasses="c-avatar--as-author" />
             </div>
             <span
               className="c-toolbox-popover__comment"
-              dangerouslySetInnerHTML={{__html: comment}}
+              dangerouslySetInnerHTML={{ __html: comment }}
             />
           </div>
-        }
+        )}
       </div>
     </div>
-  )
-}
+  );
+};
 
 export default ToolBoxPopOver;
